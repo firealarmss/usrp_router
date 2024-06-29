@@ -1,0 +1,11 @@
+bridges:
+  - name: bridge1
+    address: 172.27.145.51
+    receiveport: 34001
+    sendport: 32001
+    type: allstar
+  - name: bridge2
+    address: 127.0.0.1
+    receiveport: 34010
+    sendport: 32005
+    type: client
